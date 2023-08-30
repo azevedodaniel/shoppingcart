@@ -3,6 +3,8 @@
   width: 100%;
 
   background-color: #fff159;
+
+  z-index: 1;
 }
 
 .header > div {
